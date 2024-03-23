@@ -24,7 +24,7 @@ MySQL Connector is used to access the datebase.
 
 # Useful Websites
 
-- [W3Schools]([https://www.w3schools.com/sql/])
+- [W3Schools](https://www.w3schools.com/sql/)
 - [Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/databases/create-a-database?view=sql-server-ver16)
 
 # Future Work
